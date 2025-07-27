@@ -1,0 +1,14 @@
+# Packages needed in environment in order to work with this AI Agent
+# This project uses a virtual environment
+# To create virtual environment: python -m venv venv For windows it's python, for mac it's python3
+# venv makes a new virtual environment named venv
+# To activate the virtual environment: .\venv\Scripts\activate (windows) source ./venv/bin/activate (mac/linux)
+
+langchain 
+wikipedia 
+langchain-community 
+langchain-openai
+langchain-anthropic
+python-dotenv
+pydantic
+duckduckgo-search
